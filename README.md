@@ -206,7 +206,7 @@ This notebook includes:
 
 This project was developed for:
 
-- Deep Learning coursework
+- Advanced Deep Learning implementation
 - Computer Vision practice
 - Understanding CNN and Transfer Learning
 - Medical AI application development
